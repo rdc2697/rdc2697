@@ -1,4 +1,3 @@
-![](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/github-header-image.png)
 # Rishabh Dev Chawla
 ### Citizen Scientist | Data Science Enthusiast 
 
