@@ -1,5 +1,4 @@
-![](https://github.com/rdc2697/rdc2697/blob/main/github-header-image.png)
-
+![](https://github.com/rdc2697/SUKHMAN-SINGH-1612/blob/main/github-header-image.png)
 # Rishabh Dev Chawla
 ### Citizen Scientist | Data Science Enthusiast 
 
