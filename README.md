@@ -1,5 +1,5 @@
 # Rishabh Dev Chawla
-### Citizen Scientist | Data Science Enthusiast 
+### Data Science Enthusiast 
 
 Welcome to my GitHub profile! I'm Rishabh Dev Chawla, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
